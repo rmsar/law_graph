@@ -1,0 +1,7 @@
+id,name,code,region,legal_system
+C001,Portugal,PT,Southern Europe,Civil Law
+C002,European Union,EU,Europe,Supranational
+C003,Germany,DE,Central Europe,Civil Law
+C004,United Kingdom,GB,Northern Europe,Common Law
+C005,Brazil,BR,South America,Civil Law
+C006,United States,US,North America,Common Law

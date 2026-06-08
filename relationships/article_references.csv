@@ -1,0 +1,19 @@
+from_article_id,to_article_id,reference_type,notes
+ART002,ART016,MIRRORS,PT Lei SST prevention principles mirror EU Framework Directive Art.5 employer obligations
+ART011,ART002,IMPLEMENTS,CT Art.128 employer duties implement Lei SST Art.15 prevention principles
+ART010,ART002,IMPLEMENTS,CT Art.127 worker duties correspond to Lei SST Art.15 worker participation principle
+ART013,ART031,REPLICATED_BY,EU GDPR Art.5 processing principles replicated in UK GDPR Art.5 post-Brexit
+ART014,ART032,REPLICATED_BY,EU GDPR Art.17 right to erasure replicated in UK GDPR Art.17 with UK adaptations
+ART015,ART033,EQUIVALENT,EU GDPR Art.83 fine structure has equivalent in UK GDPR penalties via ICO powers
+ART041,ART002,INSPIRED_BY,Brazilian PGR requirement in NR-1 Art.6 inspired by EU prevention principles in Directive 89/391
+ART044,ART010,CORRESPONDS_TO,Brazilian NR-6 employer PPE duties correspond to CT Art.127 worker PPE obligation
+ART046,ART028,COMPARABLE,US OSHA general duty clause mirrors UK HSWA general employer duty in principle
+ART055,ART013,EXTENDS,NIS2 Art.21 cybersecurity measures extend GDPR Art.5 security and integrity principle
+ART056,ART009,INTERACTS_WITH,NIS2 24h incident reporting interacts with GDPR 72h breach notification requirement
+ART058,ART013,INCORPORATES,CSRD Art.19 sustainability reporting incorporates GDPR data governance transparency elements
+ART019,ART016,IMPLEMENTS,German ArbSchG Gefährdungsbeurteilung implements EU Framework Directive employer risk assessment obligation
+ART040,ART016,INSPIRED_BY,Brazilian NR-1 scope inspired by EU Framework Directive Art.5 objectives
+ART021,ART003,COMPARABLE,German ArbSchG fines comparable to Portuguese Lei SST administrative penalty structure
+ART048,ART003,COMPARABLE,US OSHA penalties comparable in structure to Portuguese Lei SST administrative fines
+ART039,ART015,COMPARABLE,LGPD Art.52 fine structure inspired by and comparable to EU GDPR Art.83
+ART033,ART015,EQUIVALENT,UK GDPR ICO penalty powers functionally equivalent to EU GDPR Art.83 fine tiers

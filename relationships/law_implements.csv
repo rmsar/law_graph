@@ -1,0 +1,8 @@
+from_law_id,to_law_id,transposition_date,notes
+L001,L006,2009-09-10,Portugal transposes EU OSH Framework Directive 89/391 into national law
+L002,L005,2019-08-08,Portugal national implementation supplementing GDPR with national specifications
+L009,L006,1996-08-07,Germany transposes EU OSH Framework Directive into national Arbeitsschutzgesetz
+L010,L005,2018-05-25,Germany supplements GDPR with national BDSG adapting opening clauses
+L012,L006,1974-07-31,UK HSWA predates EU directive but was subsequently aligned with its requirements
+L013,L005,2018-05-25,UK retains GDPR into national law via Data Protection Act 2018 post-Brexit
+L015,L005,2018-08-14,Brazil LGPD modelled on EU GDPR principles though with distinct legal bases

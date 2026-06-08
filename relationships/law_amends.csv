@@ -1,0 +1,5 @@
+from_law_id,to_law_id,amendment_date,description
+L002,L005,2019-08-08,Lei 58/2019 supplements and amends GDPR for Portuguese national context
+L010,L005,2018-05-25,BDSG 2018 amends and supplements EU GDPR provisions for Germany
+L013,L005,2020-01-31,UK GDPR amends retained EU GDPR following Brexit transition period
+L004,L001,2009-02-12,Código do Trabalho integrates and partially amends Lei SST obligations

@@ -1,0 +1,61 @@
+id,number,title,content_summary,law_id,is_key_article
+ART001,1,Objeto e Âmbito de Aplicação,Defines scope and objectives applying to all employers and workers in Portugal including trainees and subcontractors,L001,true
+ART002,15,Princípios Gerais de Prevenção,Establishes 9 prevention principles: risk avoidance assessment at source adaptation to individual substitution collective priority technical measures information and training,L001,true
+ART003,98,Coimas e Sanções Acessórias,Administrative fines from €4000 to €120000 for very serious violations including prohibition of activity,L001,false
+ART004,1,Objeto e Âmbito,Defines scope of Portuguese GDPR national implementation and relationship with EU regulation,L002,true
+ART005,20,Tratamento de Dados pelo Empregador,Specific provisions for employer processing of employee personal data including video surveillance and biometrics,L002,true
+ART006,38,Autoridade de Controlo,Establishes CNPD powers including investigations audits orders and power to impose corrective measures,L002,false
+ART007,1,Objeto,Sets environmental policy objectives including sustainability circular economy and climate adaptation,L003,true
+ART008,10,Princípio do Poluidor-Pagador,Establishes polluter pays principle strict liability for environmental damage and mandatory remediation,L003,true
+ART009,23,Instrumentos de Política de Ambiente,Lists environmental policy instruments including EIA SEA licensing emission permits and green taxation,L003,false
+ART010,127,Deveres do Trabalhador,Lists worker obligations: comply with safety rules use PPE report hazards and participate in training,L004,true
+ART011,128,Deveres do Empregador,Lists 22 employer duties including risk prevention health surveillance safety information and training provision,L004,true
+ART012,282,Acidente de Trabalho,Defines work accidents covers commuting accidents and establishes employer liability for compensation,L004,false
+ART013,5,Principles relating to processing of personal data,Establishes 7 GDPR principles: lawfulness fairness transparency purpose limitation data minimisation accuracy storage limitation and integrity,L005,true
+ART014,17,Right to erasure,Right to be forgotten - data subjects can request erasure and controllers must comply within 30 days unless exceptions apply,L005,true
+ART015,83,General conditions for imposing administrative fines,Fine structure: up to €10M or 2% global turnover (lower tier) and €20M or 4% global turnover (upper tier) whichever is higher,L005,true
+ART016,5,Employer Obligations,Requires employers to ensure worker safety covering all work aspects including equipment chemicals ergonomics and psychosocial risks,L006,true
+ART017,9,Workers designation,Requires employers to designate competent workers for protection and prevention activities with adequate resources,L006,false
+ART018,11,Employers in the same workplace,Rules for coordination of safety activities and communication when multiple employers share a single workplace,L006,false
+ART019,5,Gefährdungsbeurteilung,Requires employers to conduct and document risk assessment for all work activities including physical chemical biological and psychosocial hazards,L009,true
+ART020,12,Unterweisung,Mandates safety instruction before job start when tasks change for new hazards and at regular intervals,L009,false
+ART021,25,Bußgeldvorschriften,Administrative fines up to €25000 for non-compliance with risk assessment information and instruction obligations,L009,false
+ART022,4,Lawfulness of processing,Lists legal bases for personal data processing: consent contract legal obligation vital interests public task and legitimate interest,L010,false
+ART023,38,Datenschutzbeauftragte,Requires appointment of DPO for public bodies and certain private organizations processing at large scale,L010,true
+ART024,83,Sanctions and penalties,Sets national fine levels and enforcement authority mapping GDPR administrative fine tiers to German law,L010,false
+ART025,4,Genehmigungsbedürftige Anlagen,Defines installations requiring permits including power plants chemical plants and waste facilities with emission limits,L011,true
+ART026,5,Grundpflichten,Requires operators to prevent harmful emissions using best available techniques (BAT) and state of the art technology,L011,true
+ART027,52,Ordnungswidrigkeiten,Administrative fines up to €50000 for operating without permit or exceeding emission limit values,L011,false
+ART028,2,General duties of employers,Imposes general duty of care on employers to ensure health safety and welfare of all employees and non-employees affected by work activities,L012,true
+ART029,7,General duties of employees,Requires employees to take reasonable care for own safety and that of others and cooperate with employer safety measures,L012,false
+ART030,20,Powers of inspectors,Grants HSE inspectors powers to enter premises examine persons seize items issue improvement prohibition notices and prosecute,L012,false
+ART031,5,Principles of processing,UK GDPR processing principles mirroring EU GDPR adapted for UK post-Brexit: lawfulness fairness transparency and other principles unchanged,L013,true
+ART032,17,Right to erasure,UK equivalent of EU GDPR right to erasure - same substantive right with UK-specific procedural elements,L013,false
+ART033,115,Penalties,ICO enforcement powers: maximum fines £17.5M or 4% global annual turnover for serious breaches whichever is higher,L013,false
+ART034,3,Biodiversity targets,Sets legally binding targets for species abundance by at least 10% above 2030 baseline and habitat condition improvement by 2042,L014,true
+ART035,46,Environmental improvement plans,Requires local authorities to develop publish and implement environment improvement plans every 5 years,L014,false
+ART036,24,Office for Environmental Protection,Establishes independent OEP to monitor environmental law implementation and hold public authorities accountable post-Brexit,L014,false
+ART037,7,Hipóteses de Tratamento,Establishes 10 legal bases for personal data processing under Brazilian law including consent legitimate interest and legal obligation,L015,true
+ART038,18,Direitos do Titular,Establishes 9 data subject rights: confirmation access correction deletion anonymisation portability objection review and information on sharing,L015,true
+ART039,52,Sanções Administrativas,ANPD can impose fines up to 2% of Brazilian annual revenue limited to R$50M per violation and daily fines for ongoing violations,L015,false
+ART040,1,Objetivo e Campo de Aplicação,Applies to all Brazilian employers establishes minimum safety and health standards and references all other NRs,L016,true
+ART041,6,Gerenciamento de Riscos Ocupacionais,Requires all employers to implement Occupational Risk Management Program (PGR) proportional to organizational complexity,L016,true
+ART042,7,Programa de Gerenciamento de Riscos,Defines PGR mandatory components: inventory identification evaluation control and monitoring reviewed every 2 years or after incident,L016,false
+ART043,1,Objetivo,Establishes employer obligation to provide appropriate certified PPE at no cost to workers where collective measures are insufficient,L017,true
+ART044,6,Obrigações do Empregador,Employer PPE obligations: acquire certified PPE guide workers provide training enforce correct use maintain replace and record provision,L017,true
+ART045,7,Obrigações do Trabalhador,Worker obligations: use PPE correctly report defects handle with care and follow employer PPE instructions,L017,false
+ART046,5,Duties of employers,General duty clause: employers must provide employment and workplace free from recognized hazards causing or likely to cause death or serious harm,L018,true
+ART047,8,Inspections investigations records,OSHA right to inspect workplaces without prior notice investigate fatalities subpoena witnesses and issue citations and penalties,L018,false
+ART048,17,Penalties,Civil penalties: up to $15625 per serious violation $15625 per day for failure to abate and up to $156259 for willful or repeated violations,L018,false
+ART049,1798100,Right to know,California residents have right to know what personal information businesses collect use disclose and sell about them,L019,true
+ART050,1798105,Right to delete,California residents can request deletion of personal information and businesses must comply within 45 days with limited exceptions,L019,false
+ART051,1798155,Administrative fines,Civil penalties up to $2500 per unintentional violation and $7500 per intentional violation enforced by California AG,L019,false
+ART052,109,National Ambient Air Quality Standards,EPA to establish NAAQS for 6 criteria pollutants (PM CO NO2 SO2 Ozone Lead) at levels protecting public health with adequate margin,L020,true
+ART053,112,Hazardous Air Pollutants,Regulation of 187 listed HAPs from major sources using maximum achievable control technology (MACT) standards,L020,true
+ART054,113,Federal Enforcement,Federal enforcement authority: civil penalties up to $25000 per day per violation and criminal penalties for knowing violations,L020,false
+ART055,21,Cybersecurity risk management measures,Essential and important entities must implement proportionate technical organizational and operational measures for cybersecurity risk management,L007,true
+ART056,23,Reporting obligations,Significant incident reporting: early warning within 24h interim notification within 72h and final report within one month,L007,true
+ART057,34,Administrative fines,Essential entities: up to €10M or 2% global annual turnover. Important entities: up to €7M or 1.4% global annual turnover,L007,false
+ART058,19,Sustainability reporting standards,Large companies must report annually on sustainability using European Sustainability Reporting Standards (ESRS) covering E S and G,L008,true
+ART059,29,Third-party assurance,Sustainability reports require limited assurance by accredited statutory auditors increasing to reasonable assurance over time,L008,false
+ART060,51,Administrative penalties,Member states must ensure effective proportionate dissuasive penalties for CSRD non-compliance including public disclosure,L008,false

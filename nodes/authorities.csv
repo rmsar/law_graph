@@ -1,0 +1,16 @@
+id,name,type,country_id,website
+A001,ACT - Autoridade para as Condições do Trabalho,Labour & Safety Inspectorate,C001,act.gov.pt
+A002,Comissão Nacional de Proteção de Dados (CNPD),Data Protection Authority,C001,cnpd.pt
+A003,Agência Portuguesa do Ambiente (APA),Environmental Agency,C001,apambiente.pt
+A004,European Agency for Safety and Health at Work (EU-OSHA),EU Safety Agency,C002,osha.europa.eu
+A005,European Data Protection Board (EDPB),EU Data Protection,C002,edpb.europa.eu
+A006,Bundesanstalt für Arbeitsschutz und Arbeitsmedizin (BAuA),Federal Safety Agency,C003,baua.de
+A007,Bundesbeauftragter für den Datenschutz (BfDI),Federal Data Protection Commissioner,C003,bfdi.bund.de
+A008,Health and Safety Executive (HSE),Safety Regulator,C004,hse.gov.uk
+A009,Information Commissioner's Office (ICO),Data Protection Authority,C004,ico.org.uk
+A010,Ministério do Trabalho e Emprego (MTE),Labour Ministry,C005,gov.br/trabalho
+A011,Autoridade Nacional de Proteção de Dados (ANPD),Data Protection Authority,C005,gov.br/anpd
+A012,Occupational Safety and Health Administration (OSHA),Safety Regulator,C006,osha.gov
+A013,Federal Trade Commission (FTC),Consumer & Privacy Protection,C006,ftc.gov
+A014,Umweltbundesamt (UBA),Federal Environment Agency,C003,umweltbundesamt.de
+A015,Environment Agency (EA),Environmental Regulator,C004,gov.uk/environment-agency

@@ -1,0 +1,25 @@
+id,law_id,description,penalty_type,min_amount,max_amount,currency,unit
+PEN001,L001,Contraordenação muito grave - violação de normas de segurança com risco de morte,Administrative Fine,4000,120000,EUR,per violation
+PEN002,L001,Contraordenação grave - incumprimento de medidas preventivas obrigatórias,Administrative Fine,1000,9000,EUR,per violation
+PEN003,L005,Lower tier - procedural violations (DPIA DPO ROPA consent mechanism),Administrative Fine,0,10000000,EUR,per violation or 2% global annual turnover
+PEN004,L005,Upper tier - core principle violations (lawfulness purpose limitation rights),Administrative Fine,0,20000000,EUR,per violation or 4% global annual turnover
+PEN005,L009,Bußgeld - Verletzung der Gefährdungsbeurteilungs- und Unterwiesungspflicht,Administrative Fine,0,25000,EUR,per violation
+PEN006,L012,Unlimited fine for breach of general duty (Crown Court conviction),Criminal Fine,0,0,GBP,unlimited
+PEN007,L012,Magistrates Court fine for breach of improvement or prohibition notice,Criminal Fine,0,20000,GBP,per offence
+PEN008,L013,Lower tier UK GDPR fine - procedural and governance breaches,Administrative Fine,0,8700000,GBP,per violation or 2% global annual turnover
+PEN009,L013,Upper tier UK GDPR fine - core principle and rights breaches,Administrative Fine,0,17500000,GBP,per violation or 4% global annual turnover
+PEN010,L015,Multa LGPD por violação grave - vazamento ou uso indevido de dados,Administrative Fine,0,50000000,BRL,per violation or 2% Brazil annual revenue
+PEN011,L016,Embargo de atividade por situação de risco grave e iminente,Administrative Order,0,0,BRL,activity suspension until remediation
+PEN012,L016,Auto de infração por descumprimento do PGR,Administrative Fine,2000,200000,BRL,per violation
+PEN013,L017,Auto de infração por ausência ou inadequação de EPI,Administrative Fine,1000,100000,BRL,per violation per worker
+PEN014,L018,Other than serious (OTS) violation citation,Administrative Fine,0,15625,USD,per violation
+PEN015,L018,Serious violation - substantial probability of death or serious harm,Administrative Fine,0,15625,USD,per violation
+PEN016,L018,Willful or repeated violation,Administrative Fine,11162,156259,USD,per violation
+PEN017,L018,Failure to abate cited hazard by OSHA deadline,Administrative Fine,0,15625,USD,per day beyond deadline
+PEN018,L019,CCPA unintentional violation civil penalty,Civil Penalty,0,2500,USD,per unintentional violation
+PEN019,L019,CCPA intentional violation civil penalty,Civil Penalty,0,7500,USD,per intentional violation
+PEN020,L020,Clean Air Act civil penalty for NAAQS violation,Civil Penalty,0,25000,USD,per day per violation
+PEN021,L007,NIS2 fine for essential entities,Administrative Fine,0,10000000,EUR,per violation or 2% global annual turnover
+PEN022,L007,NIS2 fine for important entities,Administrative Fine,0,7000000,EUR,per violation or 1.4% global annual turnover
+PEN023,L011,BImSchG Bußgeld - operating without permit or exceeding limits,Administrative Fine,0,50000,EUR,per violation
+PEN024,L010,BDSG Bußgeld - violations of national data protection provisions,Administrative Fine,0,50000,EUR,per violation

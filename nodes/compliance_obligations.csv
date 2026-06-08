@@ -1,0 +1,44 @@
+id,law_id,article_id,description,obligation_type,target_entity,deadline_days,recurring
+OBL001,L001,ART002,Conduct and document risk assessment for all work activities and update after significant changes,Risk Assessment,Employer,0,false
+OBL002,L001,ART002,Implement preventive and protective measures prioritising collective over individual protection,Prevention,Employer,30,false
+OBL003,L001,ART002,Provide documented safety and health information and training to all workers,Training,Employer,0,true
+OBL004,L004,ART011,Appoint safety delegate (delegado de segurança) for workplaces with 10 or more workers,Appointment,Employer,30,false
+OBL005,L004,ART011,Organise occupational health services either internally or through external provider,Health Services,Employer,90,false
+OBL006,L005,ART013,Maintain Records of Processing Activities (ROPA) documenting all personal data processing,Documentation,Data Controller,0,false
+OBL007,L005,ART013,Conduct Data Protection Impact Assessment (DPIA) before high-risk processing operations,DPIA,Data Controller,0,false
+OBL008,L005,ART014,Respond to data subject access requests within 30 days extendable to 90 with notice,Response,Data Controller,30,false
+OBL009,L005,ART014,Notify supervisory authority of data breach within 72 hours of becoming aware,Notification,Data Controller,3,false
+OBL010,L005,ART015,Appoint Data Protection Officer where processing involves large-scale sensitive data or public authority,Appointment,Data Controller,0,false
+OBL011,L006,ART016,Ensure health surveillance for workers exposed to specific occupational risks (noise vibration chemicals),Health Surveillance,Employer,0,true
+OBL012,L006,ART017,Designate competent worker(s) with sufficient resources and time for protection and prevention activities,Designation,Employer,0,false
+OBL013,L006,ART018,Establish coordination procedures for safety when multiple employers work at same location,Coordination,Employer,0,false
+OBL014,L009,ART019,Document Gefährdungsbeurteilung (risk assessment) and review after incidents or changes,Documentation,Employer,0,true
+OBL015,L009,ART020,Provide Unterweisung (safety instruction) before first job start and annually thereafter,Training,Employer,0,true
+OBL016,L010,ART023,Appoint Datenschutzbeauftragter (DPO) for public bodies and organisations processing at large scale,Appointment,Organisation,0,false
+OBL017,L011,ART025,Obtain Bundes-Immissionsschutz permit before operating regulated installation,Permit,Operator,0,false
+OBL018,L011,ART026,Apply best available techniques (BAT) to minimise emissions and environmental impact,Technical,Operator,0,true
+OBL019,L012,ART028,Prepare written health and safety policy for organisations with 5 or more employees,Documentation,Employer,0,false
+OBL020,L012,ART028,Conduct suitable and sufficient risk assessment and record significant findings,Risk Assessment,Employer,0,true
+OBL021,L012,ART030,Maintain accident records and report specified injuries and dangerous occurrences under RIDDOR,Reporting,Employer,0,true
+OBL022,L013,ART031,Appoint UK DPO where required by UK GDPR and register with ICO,Appointment,Organisation,0,false
+OBL023,L013,ART031,Notify ICO of data breaches within 72 hours where feasible under UK GDPR requirements,Notification,Data Controller,3,false
+OBL024,L015,ART037,Document lawful basis for each category of personal data processing activity,Documentation,Data Controller,0,false
+OBL025,L015,ART038,Establish and publish process enabling data subjects to exercise their 9 LGPD rights,Process,Data Controller,15,false
+OBL026,L015,ART038,Respond to data subject requests within 15 days of receipt,Response,Data Controller,15,false
+OBL027,L016,ART041,Implement Occupational Risk Management Program (PGR) identifying inventorying and controlling risks,Risk Management,Employer,0,false
+OBL028,L016,ART042,Review and update PGR documentation at minimum every 2 years or after occupational accident,Review,Employer,730,true
+OBL029,L017,ART044,Provide appropriate INMETRO-certified PPE free of charge to workers requiring it,PPE Provision,Employer,0,false
+OBL030,L017,ART044,Train workers on correct PPE use maintenance and limitations before first use,Training,Employer,0,false
+OBL031,L017,ART044,Maintain individual PPE distribution records (ficha de EPI) for each worker,Documentation,Employer,0,true
+OBL032,L018,ART046,Maintain workplace free from recognized serious hazards under the general duty clause,Workplace Safety,Employer,0,true
+OBL033,L018,ART047,Report work-related fatalities to OSHA within 8 hours of occurrence,Reporting,Employer,0,false
+OBL034,L018,ART047,Report work-related in-patient hospitalisation amputation or eye loss within 24 hours,Reporting,Employer,1,false
+OBL035,L018,ART047,Maintain OSHA 300 injury and illness log and post 300A summary annually,Documentation,Employer,0,true
+OBL036,L019,ART049,Provide privacy notice to California residents at or before collection of personal information,Notice,Business,0,false
+OBL037,L019,ART050,Process and respond to consumer deletion requests within 45 calendar days,Response,Business,45,false
+OBL038,L007,ART055,Implement cybersecurity risk management measures proportional to size and risk exposure,Risk Management,Essential Entity,0,true
+OBL039,L007,ART056,Submit early warning to CSIRT or authority within 24 hours of significant incident,Reporting,Essential Entity,1,false
+OBL040,L007,ART056,Submit full incident notification within 72 hours and final report within one month,Reporting,Essential Entity,30,false
+OBL041,L008,ART058,Publish annual sustainability report using ESRS standards as part of management report,Reporting,Large Company,0,true
+OBL042,L020,ART052,Monitor ambient air quality and report against NAAQS standards for criteria pollutants,Monitoring,Major Source,0,true
+OBL043,L020,ART053,Apply MACT standards for listed hazardous air pollutants from major stationary sources,Technical,Major Source,0,true

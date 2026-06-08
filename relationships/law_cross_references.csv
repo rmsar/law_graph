@@ -1,0 +1,15 @@
+from_law_id,to_law_id,relationship_type,notes
+L001,L004,REFERENCED_BY,Labour Code explicitly references Lei SST for employer safety duties and obligations
+L004,L001,REFERENCES,Labour Code incorporates OSH obligations for both employers and workers by reference
+L005,L007,RELATED_TO,GDPR and NIS2 share overlapping security obligations for systems processing personal data
+L007,L005,RELATED_TO,NIS2 incident reporting obligations interact with GDPR 72h breach notification requirements
+L005,L008,RELATED_TO,CSRD sustainability reporting includes data governance and processing transparency elements
+L008,L007,RELATED_TO,CSRD digital infrastructure reporting touches NIS2 cybersecurity risk disclosure requirements
+L016,L017,REFERENCED_BY,NR-6 PPE regulation is explicitly referenced by NR-1 general risk management provisions
+L017,L016,REFERENCES,NR-1 PGR risk controls trigger NR-6 PPE requirements as residual protection measure
+L018,L020,RELATED_TO,OSHA and EPA share joint enforcement authority for industrial workplace air emissions
+L012,L014,RELATED_TO,UK HSWA workplace safety for industrial sites intersects with Environment Act pollution obligations
+L001,L003,RELATED_TO,Portuguese OSH law intersects with environmental law for workplaces with environmental hazards
+L009,L011,RELATED_TO,German workplace safety (ArbSchG) intersects with BImSchG for industrial facility operators
+L015,L004,INSPIRED_BY,Brazilian LGPD employment data provisions inspired by EU member state approaches including Portugal
+L019,L005,RELATED_TO,CCPA California law shares structural similarities with GDPR rights framework though independently developed
