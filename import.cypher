@@ -12,7 +12,7 @@
 // ============================================================
 
 // SET THIS BEFORE RUNNING
-:param baseUrl => 'https://github.com/rmsar/law_graph.git'
+:param baseUrl => 'https://raw.githubusercontent.com/rmsar/law_graph/refs/heads/main/neo4j-legislation-sample'
 
 // ============================================================
 // STEP 1 — CONSTRAINTS & INDEXES
